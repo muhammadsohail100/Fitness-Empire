@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Our GYM</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Who We Are</h2>
+        <p>Our GYM is dedicated to providing the best fitness experience for all our members. Our state-of-the-art equipment and experienced trainers are here to help you achieve your goals.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Our GYM. All rights reserved.</p>
+    </footer>
+</body>
+</html>
